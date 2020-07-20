@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey I'm Vishwajit Kumar Vishnu. This website will be updated soon.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vishwajit_vishnu@hotmail.com](mailto:email@domain.com)
